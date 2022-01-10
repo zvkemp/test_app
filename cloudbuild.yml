@@ -12,7 +12,7 @@ steps:
 
 substitutions:
   # _REGION: us-central1
-  _SERVICE_NAME: rails-test-service
+  _SERVICE_NAME: test-app 
   # _INSTANCE_NAME: test-service-1
 
 availableSecrets:
